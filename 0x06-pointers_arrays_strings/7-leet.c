@@ -5,6 +5,7 @@
  * @s: string to encode
  * Retrun: address of s
  */
+
 char *leet(char *s)
 {
 	int i, j;
