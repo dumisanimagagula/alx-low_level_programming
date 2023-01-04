@@ -2,10 +2,12 @@
 
 /**
  * _strcpy - copies a string
+ *
  * @dest: string to copy to
  * @src: string to copy from
  * @n: number of bytes to copy
- * Return: Always 0
+ *
+ * Return: strings copied to dest
  */
 char *_strncpy(char *dest, char *src, int n)
 {
