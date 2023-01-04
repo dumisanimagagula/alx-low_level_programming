@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- *leet - changes the chars "aA" "eE" "oO" "tT" "lL" 
+ *leet - changes the chars "aA" "eE" "oO" "tT" "lL"
  *into 4 3 0 7 1 respectively
  *@s: the pointer containin the string
+ *
  *Retrun: the string already converted
  */
 
